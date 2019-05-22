@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: concurrency
+Implementation-Version: 1.0.0
+Built-By: Verna
+Implementation-Vendor-Id: org.haoloy
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/concurrency
+Created-By: Maven Integration for Eclipse
+
